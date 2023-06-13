@@ -11,7 +11,7 @@ https://ambitiousflo.github.io/Horiseon/
 
 ## Usage
 
-![Screenshot of Horiseon home screen](/assets/images/Screenshot%202023-06-12%20194540.png)
+![Screenshot of Horiseon home screen](/assets/images/Horiseon%20Project.png)
 
 ## License
 
